@@ -1,3 +1,3 @@
 # shyam-code
 This is my first Git Repository.<br>
-Author - Shyam Patil
+Author - Shyam Amolbhau Lade Patil  
